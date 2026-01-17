@@ -3,3 +3,11 @@
 This folder contains product and company-level decks
 related to construction project management software
 and ERP platforms.
+
+## Product & Company Deck
+
+- [RDash – Construction Management Software](decks/rdash-construction-management-software.pdf)
+
+This deck explains a BOQ-centric, cashflow-linked construction
+management software designed for design & build firms,
+contractors, and EPC companies.

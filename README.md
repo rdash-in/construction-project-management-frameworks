@@ -28,3 +28,11 @@ This framework is widely applicable for:
 - MEP contractors
 
 A detailed whitepaper is available in this repository.
+
+## Whitepaper
+
+- [Golden Journey of Construction Management](whitepapers/construction-project-management-golden-journey.pdf)
+
+This whitepaper explains a BOQ-centric construction project management
+framework that links site execution, procurement, and finance to
+improve delivery timelines and cashflow control.

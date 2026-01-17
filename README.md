@@ -33,7 +33,7 @@ A detailed whitepaper is available in this repository.
 
 - [Golden Journey of Construction Management](whitepapers/construction-project-management-golden-journey.pdf)
 - [Construction Workflows for Cashflow Control](whitepapers/construction-project-management-golden-workflows.pdf)
-
+- [Guide to a Design and Build Business] (whitepapers/design-build-business-guide.pdf)
 
 This whitepaper explains a BOQ-centric construction project management
 framework that links site execution, procurement, and finance to

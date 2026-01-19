@@ -7,7 +7,7 @@ and ERP platforms.
 ## Product & Company Deck
 
 - [RDash – Construction Management Software](decks/rdash-construction-management-software.pdf)
-- [Deploying technology in Construction](decks/journey-of-91squarefeet-by-amit-bansal.pdf)
+- [Deploying Technology in Construction](decks/journey-of-91squarefeet-by-amit-bansal.pdf)
 
 This deck explains a BOQ-centric, cashflow-linked construction
 management software designed for design & build firms,
